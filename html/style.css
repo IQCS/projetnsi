@@ -1,0 +1,80 @@
+p {
+  color: #CCFFFF;
+  font-family: verdana;
+  font-size: 22;
+}
+
+.image1{
+	width: 50;
+	position: absolute;
+    right: 1100px;
+}
+
+.image2{
+	width: 50;
+	position: absolute;
+    right: 0px;
+}
+
+.image3{
+	width: 50;
+	position: absolute;
+    left: 0px;
+}
+
+.image4{
+	width: 40;
+	position: absolute;
+    left: 0px;
+}
+
+.image4{
+	width: 40;
+	position: absolute;
+    left: 0px;
+}
+
+.image6{
+	width: 20;
+	height: 10;
+	position: absolute;
+    left: 0px;
+}
+
+.txta{
+  color: #FFFFFF;
+  font-family: arial;
+  font-size: 60;
+  text-align: justify;
+  margin-left: 1%;
+  margin-top: 1%;
+}
+
+.txtb{
+  color: #FFFFFF;
+  font-family: arial;
+  font-size: 25;
+  text-align: right;
+  margin-right: 3%;
+  margin-top: 2%;
+}
+
+.txtc{
+  color: #FFFFFF;
+  font-family: arial;
+  font-size: 30;
+  text-align: left;
+  margin-right: 3%;
+  margin-top: 2%;
+}
+
+.txtd{
+  color: #FFFFFF;
+  font-family: arial;
+  font-size: 60;
+  text-align: right;
+  margin-rigth: 1%;
+  margin-top: 1%;
+
+
+
