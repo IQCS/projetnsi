@@ -29,7 +29,7 @@ def RecupListeLiens(soup):
 
 
 def Next(soup):
-    trunk = "scan-vf.net/solo-leveling/chapitre-"
+    trunk = "scan-vf.net/solo-leveling/chapitre-" #a changer pour chaque manga
     a = url.split('-')[-1]
     b = int(a)
     c= (b+1)
